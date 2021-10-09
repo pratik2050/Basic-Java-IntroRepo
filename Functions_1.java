@@ -3,7 +3,7 @@ package com.firstjava;
 import java.util.Scanner;
 
 public class Functions_1 {
-    public static void Function(String name) {
+    public static void Function(String name) {              ///these are methods not functions
         System.out.println(name);
     }
 
