@@ -1,7 +1,7 @@
 package com.firstjava;
 
 import java.util.Scanner;
-
+                                        //These are methods not functions
 public class function_ex_1 {
 
     // Sum of all odd numbers
