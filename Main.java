@@ -10,7 +10,7 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println("Enter choice");
-        int choice = sc.nextInt();
+        int choice = sc.nextInt();                              //Switch case example
         switch (choice) {
             case 1:
                 System.out.println(a+b);
