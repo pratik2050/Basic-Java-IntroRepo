@@ -1,1 +1,2 @@
 This directory contains some basic projects on java
+These projects are works on internshala course
